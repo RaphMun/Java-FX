@@ -15,6 +15,7 @@
         </padding>
       
               <Label fx:id="welcomeText" prefHeight="17.0" prefWidth="54.0" text="Bienvenu!" />
+         <Label fx:id="welcomeText111" prefHeight="17.0" prefWidth="108.0" text="Votre Email:" />
          <TextArea prefHeight="16.0" prefWidth="163.0" />
          <Label fx:id="welcomeText11" prefHeight="17.0" prefWidth="108.0" text="Votre Mot de passe:" />
          <TextArea prefHeight="16.0" prefWidth="163.0" />
